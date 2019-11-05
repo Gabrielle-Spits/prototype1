@@ -6,6 +6,14 @@
     <e p="C:\Users\Gabri\OneDrive\Documenten\proctotype 1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Challenge 1" t="Include">
+          <e p="scripts" t="Include">
+            <e p="FollowPlayerX.cs" t="Include" />
+            <e p="PlayerControllerX.cs" t="Include" />
+            <e p="RotateObjectX.cs" t="Include" />
+            <e p="SpinPropellerX.cs" t="Include" />
+          </e>
+        </e>
         <e p="Course Library" t="Include">
           <e p="_Source_Files" t="Include">
             <e p="_LICENSE.txt" t="Include" />
