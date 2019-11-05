@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8037d608-1f47-4727-a2db-4622499ed8bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.proctotype 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.proctotype 1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.proctotype 1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.proctotype 1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.proctotype 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.proctotype 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Challenge 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 1/Challenge 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/RotateObjectX.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/RotateObjectX.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -35,6 +32,7 @@
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/RotateObjectX.cs" />
       </list>
     </option>
   </component>
@@ -87,7 +85,7 @@
       <workItem from="1572340644231" duration="1216000" />
       <workItem from="1572344723674" duration="890000" />
       <workItem from="1572369105313" duration="10000" />
-      <workItem from="1572939376974" duration="7738000" />
+      <workItem from="1572939376974" duration="7995000" />
     </task>
     <servers />
   </component>
